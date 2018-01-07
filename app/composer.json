@@ -1,0 +1,17 @@
+{
+    "name": "rod91/blogapp",
+    "authors": [
+        {
+            "name": "kubota",
+            "email": "yellowheart_jr@hotmail.com"
+        }
+    ],
+    "config": {
+            "vendor-dir": "Vendor"               
+    },
+    "license": "proprietary",
+    "require": {
+        "cakephp/cakephp": "2.5.*",
+        "josegonzalez/cakephp-environments": "1.0.0"
+    }
+}
